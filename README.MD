@@ -38,5 +38,5 @@
 ---
 
 ## 📫 Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Email](mailto:your-email@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/lior-yaacov/)
+- [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:lior1509@gmail.com)
