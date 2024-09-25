@@ -14,8 +14,12 @@
 2. **[Emotion Detection](https://github.com/LiorYaacov/EmotionDetection)**  
    - Developing a neural network for detecting emotions from facial expressions.
 
-3. **[Swin Transformers](https://github.com/LiorYaacov/SwinTransformers/tree/main)** (Paper Presentation)
-   - A PowerPoint presentation that provides an overview of Swin Transformers, a state-of-the-art model for various computer vision tasks.
+3. **[Swin Transformers](https://github.com/LiorYaacov/SwinTransformers)** (Paper Presentation)
+   - A presentation that provides an overview of Swin Transformers, a state-of-the-art model for various computer vision tasks.
+
+3. **[Objects as Points](https://github.com/LiorYaacov/ObjectsAsPoints)** (Paper Presentation)
+   - Presentation on "Objects as Points," exploring innovative object detection methodologies in computer vision.
+
 
 ### Mathematics:
 1. **Linear Algebra Book** *(Ongoing)*  
