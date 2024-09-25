@@ -14,12 +14,17 @@
 2. **[Emotion Detection](https://github.com/LiorYaacov/EmotionDetection)**  
    - Developing a neural network for detecting emotions from facial expressions.
 
+3. **[Swin Transformers](https://github.com/LiorYaacov/SwinTransformers/tree/main)** (Paper Presentation)
+   - A PowerPoint presentation that provides an overview of Swin Transformers, a state-of-the-art model for various computer vision tasks.
+
 ### Mathematics:
 1. **Linear Algebra Book** *(Ongoing)*  
    - Writing a comprehensive guide that covers fundamental and advanced topics in linear algebra.
 
 2. **Calculus 1 Book** *(Ongoing)*  
    - A detailed book on Calculus, covering limits, derivatives, and integrals with clear examples.
+
+
 
 ---
 
