@@ -36,7 +36,6 @@
 - **Deep Learning:** PyTorch, TensorFlow, Image-to-Image Translation, GANs, CycleGAN, Attention Mechanisms
 - **Mathematics:** Linear Algebra, Calculus, Numerical Methods
 - **Programming Languages:** Python, MATLAB
-- **Tools:** Git, Docker, Kaggle, Jupyter Notebooks
 
 ---
 
