@@ -12,7 +12,7 @@
    - Focus: Translating horse images to zebras with improved attention mechanisms to guide the generation process.
    
 2. **[Emotion Detection](https://github.com/LiorYaacov/EmotionDetection)**  
-   - *Focus*: Developing a neural network for detecting emotions from facial expressions.
+   - Developing a neural network for detecting emotions from facial expressions.
 
 ### Mathematics:
 1. **Linear Algebra Book** *(Ongoing)*  
