@@ -21,15 +21,6 @@
    - Presentation on "Objects as Points," exploring innovative object detection methodologies in computer vision.
 
 
-### Mathematics:
-1. **Linear Algebra Book** *(Ongoing)*  
-   - Writing a comprehensive guide that covers fundamental and advanced topics in linear algebra.
-
-2. **Calculus 1 Book** *(Ongoing)*  
-   - A detailed book on Calculus, covering limits, derivatives, and integrals with clear examples.
-
-
-
 ---
 
 ## 🔥 Skills
