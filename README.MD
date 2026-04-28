@@ -6,18 +6,19 @@
 
 ## 💻 Projects
 
-### Deep Learning:
-1. **[Horse2zebra](https://github.com/LiorYaacov/Horse2zebra-Image-to-image-Translation)**  
+1 **[Horse2zebra](https://github.com/LiorYaacov/Horse2zebra-Image-to-image-Translation)**  
    *CycleGAN with Segmentation-Guided Attention for Image-to-Image Translation*  
    - Focus: Translating horse images to zebras with improved attention mechanisms to guide the generation process.
-   
-2. **[Emotion Detection](https://github.com/LiorYaacov/EmotionDetection)**  
+
+2. **[B.Sc Final Project: WiFi AC Remote](https://github.com/LiorYaacov/B.Sc_Final_Project_WiFi_AC_Remote.git)**
+
+3. **[Emotion Detection](https://github.com/LiorYaacov/EmotionDetection)**  
    - Developing a neural network for detecting emotions from facial expressions.
 
-3. **[Swin Transformers](https://github.com/LiorYaacov/SwinTransformers)** (Paper Presentation)
+4. **[Swin Transformers](https://github.com/LiorYaacov/SwinTransformers)** (Paper Presentation)
    - A presentation that provides an overview of Swin Transformers, a state-of-the-art model for various computer vision tasks.
 
-3. **[Objects as Points](https://github.com/LiorYaacov/ObjectsAsPoints)** (Paper Presentation)
+5. **[Objects as Points](https://github.com/LiorYaacov/ObjectsAsPoints)** (Paper Presentation)
    - Presentation on "Objects as Points," exploring innovative object detection methodologies in computer vision.
 
 
@@ -25,7 +26,6 @@
 
 ## 🔥 Skills
 - **Deep Learning:** PyTorch, TensorFlow, Image-to-Image Translation, GANs, CycleGAN, Attention Mechanisms
-- **Mathematics:** Linear Algebra, Calculus, Numerical Methods
 - **Programming Languages:** Python, MATLAB
 
 ---
