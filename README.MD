@@ -10,7 +10,8 @@
    *CycleGAN with Segmentation-Guided Attention for Image-to-Image Translation*  
    - Focus: Translating horse images to zebras with improved attention mechanisms to guide the generation process.
 
-2. **[B.Sc Final Project: WiFi AC Remote](https://github.com/LiorYaacov/B.Sc_Final_Project_WiFi_AC_Remote.git)**
+2. **[B.Sc Final Project: WiFi AC Remote](https://github.com/LiorYaacov/B.Sc_Final_Project_WiFi_AC_Remote.git)**  
+   - IoT-based smart air conditioner control system using ESP8266, Arduino Nano, Firebase, and a smartphone app for remote IR command transmission over WiFi.
 
 3. **[Emotion Detection](https://github.com/LiorYaacov/EmotionDetection)**  
    - Developing a neural network for detecting emotions from facial expressions.
