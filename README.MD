@@ -6,7 +6,7 @@
 
 ## 💻 Projects
 
-1 **[Horse2zebra](https://github.com/LiorYaacov/Horse2zebra-Image-to-image-Translation)**  
+1. **[Horse2zebra](https://github.com/LiorYaacov/Horse2zebra-Image-to-image-Translation)**  
    *CycleGAN with Segmentation-Guided Attention for Image-to-Image Translation*  
    - Focus: Translating horse images to zebras with improved attention mechanisms to guide the generation process.
 
