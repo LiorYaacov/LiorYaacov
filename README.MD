@@ -25,18 +25,6 @@
 
 ---
 
-## 🔥 Skills
-- **Deep Learning:** PyTorch, TensorFlow, Image-to-Image Translation, GANs, CycleGAN, Attention Mechanisms
-- **Programming Languages:** Python, MATLAB
-
----
-
-## 🌱 Interests
-- Continually improving knowledge in deep learning, particularly attention-based models.
-- Passionate about combining mathematical concepts with AI to solve complex problems.
-
----
-
 ## 📫 Connect with me:
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/lior-yaacov/)
 - [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:lior1509@gmail.com)
